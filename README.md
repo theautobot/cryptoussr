@@ -1,0 +1,2 @@
+# cryptoussr
+Crypto USSR
